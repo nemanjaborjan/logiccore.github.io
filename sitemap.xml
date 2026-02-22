@@ -4,15 +4,16 @@
         <loc>https://nemanjaborjan.github.io/logiccore/index.html#home</loc>
         <lastmod>2025-02-24</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>1</priority>
+        <priority>0.9</priority>
     </url>
 </urlset>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://nemanjaborjan.github.io/logiccore/author.html</loc>
         <lastmod>2025-02-24</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
 
 </urlset>
+
